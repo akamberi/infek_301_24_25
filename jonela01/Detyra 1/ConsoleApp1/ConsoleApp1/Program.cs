@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int nr = 5;
+int nr2 = 7;
+Console.WriteLine($"Shuma: {nr+nr2}");
